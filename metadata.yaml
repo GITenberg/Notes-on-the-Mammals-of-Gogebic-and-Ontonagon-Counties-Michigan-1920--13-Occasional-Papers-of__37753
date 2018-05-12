@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '36517'
     url: http://www.gutenberg.org/2009/agents/36517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37753#Notes-on-the-Mammals-of-Gogebic-and-Ontonagon-Counties-Michigan-1920--13-Occasional-Papers-of_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
