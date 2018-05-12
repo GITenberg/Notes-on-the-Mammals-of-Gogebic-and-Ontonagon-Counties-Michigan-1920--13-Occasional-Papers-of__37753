@@ -1,0 +1,40 @@
+_repo: Notes-on-the-Mammals-of-Gogebic-and-Ontonagon-Counties-Michigan-1920--13-Occasional-Papers-of__37753
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Sherman, Harley Bakwel
+    alias: Sherman, H. B.
+    birthdate: 1894
+    gutenberg_agent_id: '39032'
+    url: http://www.gutenberg.org/2009/agents/39032
+  - agent_name: Dice, Lee R. (Lee Raymond)
+    aliases:
+    - Dice, Lee Raymond
+    - Dice, L. R.
+    birthdate: 1887
+    deathdate: 1977
+    gutenberg_agent_id: '36517'
+    url: http://www.gutenberg.org/2009/agents/36517
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Mammals -- Michigan -- Ontonagon County'
+- !lcc 'QH'
+- !lcsh 'Mammals -- Michigan -- Gogebic County'
+title: "Notes on the Mammals of Gogebic and Ontonagon Counties, Michigan, 1920\r\n\
+  Occasional Papers of the Museum of Zoology, Number 109"
+url: http://www.gutenberg.org/ebooks/37753
